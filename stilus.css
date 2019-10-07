@@ -1,0 +1,6 @@
+fieldset {
+    width: 20%;
+    border-color: teal;
+    border-style: dotted;
+    border-width: 5px;
+}
